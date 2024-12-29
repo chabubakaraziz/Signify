@@ -1,4 +1,4 @@
-# 🛠️ **SignifyAI: Bridging the Communication Gap**  
+# 🛠️ **Signify: Bridging the Communication Gap**  
 
 ---
 
