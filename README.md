@@ -60,4 +60,4 @@ This inclusive solution empowers individuals with hearing and speech impairments
 
 ---
 
-**SignifyAI: Breaking barriers, enabling conversations.**  
+**Signify: Breaking barriers, enabling conversations.**  
